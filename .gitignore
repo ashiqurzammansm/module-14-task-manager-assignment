@@ -1,0 +1,5 @@
+node_modules
+.idea
+study.txt
+.DS_Store
+./src/.DS_Store
